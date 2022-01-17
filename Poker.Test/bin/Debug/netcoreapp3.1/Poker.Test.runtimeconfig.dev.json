@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jgass\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jgass\\.nuget\\packages"
+    ]
+  }
+}

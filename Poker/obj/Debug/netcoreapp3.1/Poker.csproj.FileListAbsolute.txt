@@ -1,0 +1,13 @@
+C:\Users\jgass\source\repos\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.exe
+C:\Users\jgass\source\repos\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.deps.json
+C:\Users\jgass\source\repos\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.runtimeconfig.json
+C:\Users\jgass\source\repos\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.runtimeconfig.dev.json
+C:\Users\jgass\source\repos\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.dll
+C:\Users\jgass\source\repos\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.pdb
+C:\Users\jgass\source\repos\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.csprojAssemblyReference.cache
+C:\Users\jgass\source\repos\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.AssemblyInfoInputs.cache
+C:\Users\jgass\source\repos\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.AssemblyInfo.cs
+C:\Users\jgass\source\repos\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.csproj.CoreCompileInputs.cache
+C:\Users\jgass\source\repos\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.dll
+C:\Users\jgass\source\repos\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.pdb
+C:\Users\jgass\source\repos\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.genruntimeconfig.cache
