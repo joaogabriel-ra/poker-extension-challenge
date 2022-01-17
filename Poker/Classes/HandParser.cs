@@ -90,7 +90,7 @@ namespace Poker.Classes
                 {
                     return "Pair";
                 }
-                else if (pokerHandEvaluator.IsThreeOfAKind(cards) && !pokerHandEvaluator.IsPair(cards))
+                else if (pokerHandEvaluator.IsThreeOfAKind(cards))
                 {
                     return "Three of a kind";
                 }

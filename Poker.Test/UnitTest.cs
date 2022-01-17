@@ -20,6 +20,7 @@ namespace Poker.Test
             Assert.AreEqual("Pair", name);
         }
 
+        [TestMethod]
         public void ShouldReturnThreeOfAKind()
         {
             string cardsList = "2D,2D,2S";
